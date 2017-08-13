@@ -1,6 +1,6 @@
 {
   "name": "exercise2",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "test",
   "main": "index.js",
   "scripts": {
@@ -21,5 +21,9 @@
   "homepage": "https://github.com/FE-star/exercise2#readme",
   "devDependencies": {
     "should": "^11.2.1"
-  }
+  },
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {}
 }
